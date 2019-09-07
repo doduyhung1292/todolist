@@ -1,0 +1,12 @@
+.TodoItems {
+	font-family: 'Helvetica Neue', Arrial;
+	font-weight:  300;
+	color: #aaa;
+	font-size:  36px;
+
+}
+
+.TodoItems-complete {
+	text-decoration: line-through;
+    opacity: .3;
+}
